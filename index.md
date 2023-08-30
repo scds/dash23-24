@@ -1,19 +1,26 @@
 ---
 layout: home
 title: Home
-description: A Data Analysis Support Hub Tutorial
+description: DASH Webinars
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/DASH Series.png" alt="Workshop Title Slide" width="720">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to DASH: The Data Analysis Support Hub Webinars
 
-# Welcome to Data Visualization with Tableau. 
+DASH workshops help registrants with data analysis and visualization by providing training for software programs and coding languages including Excel, LaTeX, Python, R, and SPSS.
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+DASH workshops welcome students, staff, and faculty from any discipline, as well as the public at large. A number of DASH workshops are also geared towards beginners, so even if you’re new to data analysis, we encourage you to sign up and learn!
 
-Proceed to the [Preparation](preparation) page to get started.
--->
-
+## 2023-2024 DASH Workshop Topics
+This year's programming includes events on the following topics:
+- Data Visualization in R using ggplot2
+- Intro to R Programming
+- Intro to Data Analysis with SPSS
+- Intro to Making and Sharing Maps with ArcGIS Pro
+- Creating Animated Plots in R using gganimate
+- Map-Making for Absolute Beginners using QGIS
+- Intro to Python
+- Web Scraping with Python's Beautiful Soup
+- Intro to Document Typesetting and Scientific Publishing with LaTeX
