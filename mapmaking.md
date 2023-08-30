@@ -3,7 +3,7 @@ layout: default
 title: Map-Making for Absolute Beginners using QGIS
 nav_order: 8
 ---
-<img src="assets/img/mapmaking.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/Mapmaking.png" alt="Workshop Title Slide" width="720">
 
 Designed for those who are curious about making maps but haven't yet had the opportunity to learn. This workshop will provide a friendly introduction to geographic data and the mapping of this data using the geographic information system (GIS) software, QGIS. Absolutely no geography or quantitative background is necessary for an engaging experience.
 
