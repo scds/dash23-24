@@ -1,4 +1,4 @@
-2023-2024 DASH: Data Analysis Support Hub Webinars
+2023-24 DASH Webinars
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dash23-24) with GitHub Pages   
 
