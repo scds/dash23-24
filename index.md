@@ -5,7 +5,7 @@ description: DASH Webinars
 nav_order: 1
 ---
 
-<img src="assets/img/DASH Series.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/DASHPoster.png" alt="Workshop Title Slide" width="720">
 
 # Welcome to DASH: The Data Analysis Support Hub Webinars
 
