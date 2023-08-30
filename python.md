@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Python
-nav_order: 8
+nav_order: 9
 ---
 <img src="assets/img/python.png" alt="Workshop Title Slide" width="720">
 
