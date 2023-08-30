@@ -3,7 +3,7 @@ layout: default
 title: Web Scraping with Python's Beautiful Soup
 nav_order: 6
 ---
-<img src="assets/img/webscrape.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/scrape.png" alt="Workshop Title Slide" width="720">
 
 This workshop will introduce attendees to techniques for scraping information from the web using Python’s Beautiful Soup (bs4) toolkit. We will begin with a basic overview of the “anatomy” or structure of a webpage. Students will then learn how to write a script for extracting textual data from websites like Reddit and organizing it into spreadsheets. The second half of the workshop will explore how to use Python's Pandas library to clean and analyze your data. In addition to technical skills, students are encouraged to engage with critical questions like: What is web scraping for and what can we, as researchers, learn from publicly available data? What are the potential ethical and legal challenges of data harvesting, and how do we do it responsibly?
 
