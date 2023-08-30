@@ -3,7 +3,7 @@ layout: default
 title: Introduction to Python
 nav_order: 9
 ---
-<img src="assets/img/python.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/Python.png" alt="Workshop Title Slide" width="720">
 
 This beginner level workshop will introduce you to the basic concepts of the world’s most popular Python programming language. You’ll learn to store data in Python data types and variables, as well as learn how to perform operations on numbers and strings. Python IDE Anaconda will be briefly discussed. No prior knowledge of Python is required. 
 
