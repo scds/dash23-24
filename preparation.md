@@ -1,30 +1,26 @@
 ---
 layout: default
-title: Preparation
+title: Data Visualization in R using ggplot2
 nav_order: 2
 ---
+<img src="assets/img/ggplot2.png" alt="Workshop Title Slide" width="720">
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+This virtual workshop will provide an introduction to ggplot2, an open-source data visualization package for the statistical programming language R. This workshop will go overbasic tips for creating visualizations and customizing the design of those graphs. A basic familiarity with R will be helpful for this workshop. 
 
-
-<!--
+Facilitator Bio: Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user. She also has experience in Research Data Management—particularly data cleaning and curation. Do not hesitate to reach out to her if you would like to talk more about data analysis and visualization as they evolve throughout the research process. Her email is sivajos@mcmaster.ca
 
 # Workshop preparation 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
+Coming Soon
   
-## Get the data
+# Workshop Recording
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+Coming Soon
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+# Workshop Slides
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
+Coming Soon
 
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
+# Links and Resources 
 
--->
+Coming Soon
