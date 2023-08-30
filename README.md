@@ -1,13 +1,12 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials DASH tutorial: **<<  ENTER WORKSHOP NAME HERE  >> **  
+2023-2024 DASH: Data Analysis Support Hub Webinars
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/dash23-24) with GitHub Pages   
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by DASH: Data Analysis Support Hub
+- Content edited for online use by Sherman Centre for Digital Scholarship and DASH
+- Online pages created by Sherman Centre for Digital Scholarship and DASH
 
 
   
