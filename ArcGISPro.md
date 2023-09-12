@@ -4,7 +4,7 @@ title: Making and Sharing Maps with ArcGIS Pro
 nav_order: 5
 ---
 
-<img src="assets/img/arcgispro.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/arcgispro.png" alt="Workshop Title Slide" width="100%">
 
 # Making and Sharing Maps with ArcGIS Pro
 
@@ -16,7 +16,7 @@ This is a live, in-person workshop. It will not be recorded.
 
 ## Facilitator Bio
 
-Christine Homuth (she/her) is the Library's Spatial Information (GIS) Specialist, providing resources and support to the McMaster community for Geographic Information Systems and geospatial data.
+Christine Homuth (she/her) is the Library's Spatial Information (GIS) Specialist, providing resources and support to the McMaster community for Geographic Information Systems and geospatial data. Email Christine at homuthc@mcmaster.ca.
 
 ## Workshop Preparation 
 
