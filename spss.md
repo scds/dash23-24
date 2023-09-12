@@ -3,6 +3,7 @@ layout: default
 title: Introduction to Statistical Analysis with SPSS
 nav_order: 4
 ---
+
 <img src="assets/img/SPSS.png" alt="Workshop Title Slide" width="100%">
 
 # Introduction to Statistical Analysis with SPSS

@@ -16,7 +16,7 @@ This is a live, in-person workshop. It will not be recorded.
 
 ## Facilitator Bio
 
-Christine Homuth (she/her) is the Library's Spatial Information (GIS) Specialist, providing resources and support to the McMaster community for Geographic Information Systems and geospatial data. Email Christine at homuthc@mcmaster.ca.
+Christine Homuth (she/her) is the Library's Spatial Information (GIS) Specialist, providing resources and support to the McMaster community for Geographic Information Systems and geospatial data. Email Christine at [homuthc@mcmaster.ca](mailto:homuthc@mcmaster.ca).
 
 ## Workshop Preparation 
 
