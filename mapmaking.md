@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Map-Making for Absolute Beginners using QGIS
-nav_order: 8
+nav_order: 7
 ---
 <img src="assets/img/Mapmaking.png" alt="Workshop Title Slide" width="720">
 
