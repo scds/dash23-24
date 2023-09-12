@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to R Programming
-nav_order: 2
+nav_order: 3
 ---
 
 <img src="assets/img/RProg.png" alt="Workshop Title Slide" width="100%">
