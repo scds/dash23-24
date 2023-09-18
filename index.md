@@ -5,6 +5,12 @@ description: DASH Webinars
 nav_order: 1
 ---
 
+{%- assign workshops = site.pages 
+    | where_exp: "item", "item.grand_parent == null"
+    | where_exp: "item", "item.parent == null"
+    | sort: "title" 
+-%}
+
 <img src="assets/img/DASHPoster.png" alt="Workshop Title Slide" width="720">
 
 # Welcome to DASH: The Data Analysis Support Hub Webinars
@@ -14,13 +20,16 @@ DASH workshops help registrants with data analysis and visualization by providin
 DASH workshops welcome students, staff, and faculty from any discipline, as well as the public at large. A number of DASH workshops are also geared towards beginners, so even if you’re new to data analysis, we encourage you to sign up and learn!
 
 ## 2023-2024 DASH Workshop Topics
-This year's programming includes events on the following topics:
-- Data Visualization in R using ggplot2
-- Intro to R Programming
-- Intro to Data Analysis with SPSS
-- Intro to Making and Sharing Maps with ArcGIS Pro
-- Creating Animated Plots in R using gganimate
-- Map-Making for Absolute Beginners using QGIS
-- Intro to Python
-- Web Scraping with Python's Beautiful Soup
-- Intro to Document Typesetting and Scientific Publishing with LaTeX
+
+<div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
+<summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
+  Workshops
+</summary>
+<ul>
+{% for workshop in workshops %}
+{% if workshop.title != null and workshop.title != "Home" %}
+<li><a href="{{workshop.url}}">{{workshop.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
