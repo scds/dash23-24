@@ -11,7 +11,7 @@ nav_order: 1
     | sort: "title" 
 -%}
 
-<img src="assets/img/DASHPoster.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 # Welcome to DASH: The Data Analysis Support Hub Webinars
 
