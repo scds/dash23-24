@@ -4,7 +4,7 @@ title: Document Typesetting and Scientific Publishing with LaTeX
 nav_order: 2024.03131330
 ---
 
-<img src="assets/img/latex.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/Latex.png" alt="Workshop Title Slide" width="100%">
 
 # Document Typesetting and Scientific Publishing with LaTeX
 
