@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Machine Learning with Python: Image Classification"
-nav_order: 2024.04121630
+nav_order: 2023.12041630
 ---
 
 <img src="assets/img/ImageClassification.png" alt="Workshop Title Slide" width="100%">
@@ -10,8 +10,7 @@ nav_order: 2024.04121630
 
 Learn Image Classification at this Workshop, where we delve into image recognition using the PyTorch framework. Whether you're a novice or have some prior experience in machine learning, this workshop is tailored to help you grasp the essentials of building image classification models.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3761752){: .btn .btn-outline }
-TODO: update LibCal entry
+[Register for this workshop](https://libcal.mcmaster.ca/event/3761926){: .btn .btn-outline }
 
 ## Facilitator Bio
 
