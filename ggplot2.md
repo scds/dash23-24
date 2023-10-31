@@ -22,11 +22,13 @@ Subhanya Sivajothy (she/her) brings a background of research in data justice, sc
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b618e249-5f27-4033-8c88-139dd1e1cdeb/public"></iframe>
 [View original here.](https://echo360.ca/media/b618e249-5f27-4033-8c88-139dd1e1cdeb/public)
 
+## Links and Resources 
+
+- Data Visualization with ggplot2 Cheatsheet: <https://rstudio.github.io/cheatsheets/data-visualization.pdf>
+- ggplot2 Reference Pages: <https://ggplot2.tidyverse.org/reference/index.html>
+- R and RStudio: <https://posit.co/download/rstudio-desktop/>
 
 <!-- # Workshop Slides
 
 Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
+-->
