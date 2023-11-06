@@ -10,7 +10,7 @@ nav_order: 2023.10181330
 
 This beginner-level workshop will focus on basic concepts of R programming using RStudio. Various Data Types and Data Structures will be discussed, as well as basic data analysis in R. No prior knowledge of R programming is required.
 
-**The materials and recording for this workshop are available here:** <https://scds.github.io/intro-r/>
+**The recording and materials for this workshop are available here:** <https://scds.github.io/intro-r/>
 
 ## Facilitator Bio
 

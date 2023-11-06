@@ -9,7 +9,7 @@ nav_order: 2024.02141330
 
 This beginner level workshop will introduce you to the basic concepts of the world’s most popular Python programming language. You’ll learn to store data in Python data types and variables, as well as learn how to perform operations on numbers and strings. Python IDE Anaconda will be briefly discussed. No prior knowledge of Python is required. 
 
-**The materials for this workshop are available here:** <https://scds.github.io/intro-python/>
+**The recording and materials for this workshop are available here:** <https://scds.github.io/intro-python/>
 
 [Register for this workshop](https://libcal.mcmaster.ca/event/3738746){: .btn .btn-outline }
 
