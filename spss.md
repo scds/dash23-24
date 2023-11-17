@@ -10,7 +10,7 @@ nav_order: 2023.11151330
 
 This beginner-level workshop will introduce you to the basics of SPSS statistical software, how it works, and some basic descriptive statistics, statistical procedures and chart building features. No prior knowledge of SPSS is required. 
 
-**The materials for this workshop are available here:** <https://scds.github.io/intro-spss/>
+**The recording and materials for this workshop are available here:** <https://scds.github.io/intro-spss/>
 
 ## Facilitator Bio
 
