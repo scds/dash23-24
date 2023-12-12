@@ -10,24 +10,11 @@ nav_order: 2023.12041630
 
 Learn image classification at this Workshop, where we delve into image recognition using the PyTorch framework. Whether you're a novice or have some prior experience in machine learning, this workshop is tailored to help you grasp the essentials of building image classification models.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3761926){: .btn .btn-outline }
-
 ## Facilitator Bio
 
 Amirreza is a Master’s student in the Electrical and Computer Engineering department of McMaster University with 8 years of experience in different programming languages.
 
-<!-- # Workshop preparation 
+## Workshop Recording
 
-Coming Soon
-  
-# Workshop Recording
-
-Coming Soon
-
-# Workshop Slides
-
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/005abbbf-b1c3-4043-a119-9ff3ae706f39/public"></iframe>
+[View original here.](https://echo360.ca/media/005abbbf-b1c3-4043-a119-9ff3ae706f39/public)
