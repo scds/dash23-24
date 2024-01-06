@@ -18,3 +18,9 @@ Amirreza is a Master’s student in the Electrical and Computer Engineering depa
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/005abbbf-b1c3-4043-a119-9ff3ae706f39/public"></iframe>
 [View original here.](https://echo360.ca/media/005abbbf-b1c3-4043-a119-9ff3ae706f39/public)
+
+## Workshop Slides
+
+<embed src="assets/docs/imageClassificationSlides.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/imageClassificationSlides.pdf)
