@@ -14,6 +14,13 @@ Learn image classification at this Workshop, where we delve into image recogniti
 
 Amirreza is a Master’s student in the Electrical and Computer Engineering department of McMaster University with 8 years of experience in different programming languages.
 
+## Workshop Preparation
+
+Access the Python file mentioned in the workshop on Google Colab: [Google Colab Python file](https://drive.google.com/file/d/1qUgWCd4tRNOQt5gKYJldm40evkw-ljxk/edit)
+
+{: .warning }
+If you want to save your changes, make a copy of the file first by going to `File` > `Save a copy in Drive`.
+
 ## Workshop Recording
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/005abbbf-b1c3-4043-a119-9ff3ae706f39/public"></iframe>
