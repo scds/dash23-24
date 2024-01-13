@@ -13,7 +13,8 @@ Designed for those who are curious about making maps but haven't yet had the opp
 
 ## Workshop Preparation 
 
-- Download [QGIS](https://www.qgis.org/en/site/forusers/download.html) ahead of the workshop.
+- Download [QGIS](https://www.qgis.org/en/site/forusers/download.html) ahead of the workshop. Please install the long-term release (version 3.28) for the purposes of this workshop.
+- Participants are welcome to arrive 30 minutes early to get assistance with software installation and setup.
 
 ## Facilitator Bio
 
