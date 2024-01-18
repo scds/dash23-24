@@ -9,7 +9,7 @@ nav_order: 2024.01161330
 
 Designed for those who are curious about making maps but haven't yet had the opportunity to learn. This workshop will provide a friendly introduction to geographic data and the mapping of this data using the geographic information system (GIS) software, QGIS. Absolutely no geography or quantitative background is necessary for an engaging experience.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3741146){: .btn .btn-outline }
+This workshop will not be recorded.
 
 ## Workshop Preparation 
 
