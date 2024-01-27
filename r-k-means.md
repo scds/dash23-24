@@ -10,8 +10,6 @@ nav_order: 2024.01261630
 
 This workshop will cover K-Means Clustering, a powerful machine-learning technique used for data segmentation and pattern recognition. K-Means is the most common clustering technique for unsupervised machine learning. 
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3780775){: .btn .btn-outline }
-
 ## Workshop Preparation 
 
 R is required, and the relevant data may be provided prior to or during the event.
@@ -20,18 +18,8 @@ R is required, and the relevant data may be provided prior to or during the even
 
 Amirreza is a Master’s student in the Electrical and Computer Engineering department of McMaster University with 8 years of experience in different programming languages.
 
-<!-- # Workshop preparation 
+## Workshop Recording
 
-Coming Soon
-  
-# Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/05d3b122-5db5-4fe0-957b-2a00a676cc30/public"></iframe>
+[View original here.](https://echo360.ca/media/05d3b122-5db5-4fe0-957b-2a00a676cc30/public)
 
-Coming Soon
-
-# Workshop Slides
-
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
