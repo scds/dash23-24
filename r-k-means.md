@@ -21,5 +21,11 @@ Amirreza is a Master’s student in the Electrical and Computer Engineering depa
 ## Workshop Recording
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/05d3b122-5db5-4fe0-957b-2a00a676cc30/public"></iframe>
+
 [View original here.](https://echo360.ca/media/05d3b122-5db5-4fe0-957b-2a00a676cc30/public)
 
+## Workshop Slides
+
+<embed src="assets/docs/k_means_clustering.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/k_means_clustering.pdf)
