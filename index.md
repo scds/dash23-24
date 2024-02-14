@@ -33,3 +33,7 @@ DASH workshops welcome students, staff, and faculty from any discipline, as well
 {% endfor %}
 </ul>
 </div>
+
+## Land Acknowledgment
+
+{% include def/land_ack.md %}
