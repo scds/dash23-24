@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Web Scraping with Python's Beautiful Soup
-nav_order: 2024.02151030
+nav_order: 2024.03141330
 ---
 
 <img src="assets/img/scrape.png" alt="Workshop Title Slide" width="100%">
