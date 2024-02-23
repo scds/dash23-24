@@ -24,8 +24,8 @@ Humayun Kabir is a master’s student in Health Research Methodology at the Depa
 
 [View original here.](https://echo360.ca/media/06e1cc14-f083-448b-9a68-9447085cbd9a/public)
 
-<!-- ## Workshop Slides
+## Workshop Slides
 
-<embed src="assets/docs/k_means_clustering.pdf" style="border:none;" width="100%" height="466px">
+<embed src="assets/docs/linearRegressionSlides.pdf" style="border:none;" width="100%" height="466px">
 
-[Download as PDF.](assets/docs/k_means_clustering.pdf) -->
+[Download as PDF.](assets/docs/linearRegressionSlides.pdf)

@@ -23,3 +23,8 @@ Humayun Kabir is a master’s student in Health Research Methodology at the Depa
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public"></iframe>
 [View original here.](https://echo360.ca/media/06bf0b7e-525f-4385-9a3e-2bb287419b34/public)
 
+## Workshop Slides
+
+<embed src="assets/docs/hypothesisTestSlides.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/hypothesisTestSlides.pdf)
