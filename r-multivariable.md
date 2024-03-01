@@ -10,8 +10,6 @@ nav_order: 2024.02271630
 
 In this beginner-level session, participants will learn the fundamentals of conducting multivariable analysis using the R statistical software. This session will cover essential aspects of multivariable analysis, including data preparation, regression techniques, and interpretation of results. Prior multivariable analysis or R expertise may not be required.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3761731){: .btn .btn-outline }
-
 ## Workshop Preparation 
 
 R is required, and the relevant data may be provided prior to or during the event.
@@ -20,18 +18,14 @@ R is required, and the relevant data may be provided prior to or during the even
 
 Humayun Kabir is a master’s student in Health Research Methodology at the Department of Health Research Methods, Evidence, and Impact at McMaster University. He provides support to the quantitative research data at the DASH, McMaster University Library.
 
-<!-- # Workshop preparation 
+## Workshop Recording
 
-Coming Soon
-  
-# Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3e557d85-2a5f-4485-8bd9-909baf6911fc/public"></iframe>
 
-Coming Soon
+[View original here.](https://echo360.ca/media/3e557d85-2a5f-4485-8bd9-909baf6911fc/public)
 
-# Workshop Slides
+## Workshop Slides
 
-Coming Soon
+<embed src="assets/docs/multivariableAnalysisSlides.pdf" style="border:none;" width="100%" height="466px">
 
-# Links and Resources 
-
-Coming Soon -->
+[Download as PDF.](assets/docs/multivariableAnalysisSlides.pdf)
