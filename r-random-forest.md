@@ -10,8 +10,6 @@ nav_order: 2024.03081630
 
 Join us for a workshop on Random Forest. Random Forest is an ensemble machine learning technique used for both classification and regression tasks. It is based on the concept of decision trees, where multiple decision trees are trained on different subsets of the data, and their predictions are combined to produce a more accurate and robust final prediction.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3781806){: .btn .btn-outline }
-
 ## Workshop Preparation 
 
 R is required, and the relevant data may be provided prior to or during the event.
@@ -20,18 +18,14 @@ R is required, and the relevant data may be provided prior to or during the even
 
 Amirreza is a Master’s student in the Electrical and Computer Engineering department of McMaster University with 8 years of experience in different programming languages.
 
-<!-- # Workshop preparation 
+## Workshop Recording
 
-Coming Soon
-  
-# Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/7b643684-a49d-4229-a7ac-ed1d45d309a3/public"></iframe>
 
-Coming Soon
+[View original here.](https://echo360.ca/media/7b643684-a49d-4229-a7ac-ed1d45d309a3/public)
 
-# Workshop Slides
+## Workshop Slides
 
-Coming Soon
+<embed src="assets/docs/randomForestSlides.pdf" style="border:none;" width="100%" height="466px">
 
-# Links and Resources 
-
-Coming Soon -->
+[Download as PDF.](assets/docs/randomForestSlides.pdf)
