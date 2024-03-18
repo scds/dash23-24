@@ -4,7 +4,7 @@ title: Web Scraping with Python's Beautiful Soup
 nav_order: 2024.03141330
 ---
 
-<img src="assets/img/scrape.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/webscrape.png" alt="Workshop Title Slide" width="100%">
 
 # Web Scraping with Python's Beautiful Soup
 
