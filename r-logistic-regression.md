@@ -10,8 +10,6 @@ nav_order: 2024.03221630
 
 In this beginner-level session, attendees will learn the fundamentals of using R programming for machine learning, with a specific focus on logistic regression. No prior expertise in R or machine learning may be required.
 
-[Register for this workshop](https://libcal.mcmaster.ca/event/3781988){: .btn .btn-outline }
-
 ## Workshop Preparation 
 
 R is required, and the relevant data may be provided prior to or during the event.
@@ -20,18 +18,14 @@ R is required, and the relevant data may be provided prior to or during the even
 
 Humayun Kabir is a master’s student in Health Research Methodology at the Department of Health Research Methods, Evidence, and Impact at McMaster University. He provides support to the quantitative research data at the DASH, McMaster University Library.
 
-<!-- # Workshop preparation 
+## Workshop Recording
 
-Coming Soon
-  
-# Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/2de65c7d-04e5-480e-9715-3ebbc9afe5f7/public"></iframe>
 
-Coming Soon
+[View original here.](https://echo360.ca/media/2de65c7d-04e5-480e-9715-3ebbc9afe5f7/public)
 
-# Workshop Slides
+## Workshop Slides
 
-Coming Soon
+<embed src="assets/docs/logisticRegressionSlides.pdf" style="border:none;" width="100%" height="466px">
 
-# Links and Resources 
-
-Coming Soon -->
+[Download as PDF.](assets/docs/logisticRegressionSlides.pdf)
