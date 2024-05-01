@@ -27,16 +27,3 @@ An ArcGIS Project Package has been created for the purpose of this workshop. Ple
 ## Facilitator Bio
 
 Christine Homuth (she/her) is the Library's Spatial Information (GIS) Specialist, providing resources and support to the McMaster community for Geographic Information Systems and geospatial data.
-
-
-<!-- # Workshop Recording
-
-Coming Soon
-
-# Workshop Slides
-
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->

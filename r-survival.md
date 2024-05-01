@@ -12,7 +12,8 @@ In this beginner-level session, learners will explore the fundamentals of surviv
 
 ## Workshop Preparation 
 
-R is required, and the relevant data may be provided prior to or during the event.
+Access the workshop files here:
+- [Google Colab](https://colab.research.google.com/drive/1M_azhc6CMmmvfSSzT1dY2gEDEixURT_q)
 
 ## Facilitator Bio
 
@@ -23,8 +24,3 @@ Humayun Kabir is a master’s student in Health Research Methodology at the Depa
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/7e7a7f92-7340-4bde-91a4-b6fdf19ef148/public"></iframe>
 
 [View original here.](https://echo360.ca/media/7e7a7f92-7340-4bde-91a4-b6fdf19ef148/public)
-
-## Links and Resources 
-
-Access the workshop files here:
-- [Google Colab](https://colab.research.google.com/drive/1M_azhc6CMmmvfSSzT1dY2gEDEixURT_q)

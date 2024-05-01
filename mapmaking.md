@@ -19,16 +19,3 @@ This workshop will not be recorded.
 ## Facilitator Bio
 
 Saman Goudarzi is the Cartographic Resources Librarian at McMaster University Library. Her work operates at the intersection of information science and critical geography. She’s particularly interested in the ways in which community-owned and -governed infrastructure can contribute to equitable knowledge systems. Currently, Saman takes care of McMaster’s Lloyd Reeds Map Collection, ensuring community members are able to access, understand, and use the collection for teaching and research.
-
-  
-<!-- # Workshop Recording
-
-Coming Soon
-
-# Workshop Slides
-
-Coming Soon
-
-# Links and Resources 
-
-Coming Soon -->
