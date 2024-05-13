@@ -10,9 +10,7 @@ nav_order: 2024.03221630
 
 In this beginner-level session, attendees will learn the fundamentals of using R programming for machine learning, with a specific focus on logistic regression. No prior expertise in R or machine learning may be required.
 
-## Workshop Preparation 
-
-R is required, and the relevant data may be provided prior to or during the event.
+**The recording and materials for this workshop are available here:** <https://scds.github.io/machine-learning-with-r/logistic-regression.html>
 
 ## Facilitator Bio
 
