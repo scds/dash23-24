@@ -14,6 +14,8 @@ This workshop is geared towards beginners new to ArcGIS or ArcMap users making t
 
 This workshop will not be recorded.
 
+**The materials for this workshop are available here:** <https://learn.scds.ca/ArcGIS-Pro/>
+
 ## Workshop Preparation 
 
 An ArcGIS account is required for attendees who wish to follow along with the workshop content. Accounts can be requested by completing the [ArcGIS software request form](https://mcmaster-ca.libwizard.com/f/arcgis). Please note that ArcGIS is proprietary software and complimentary access is restricted to McMaster staff, students, and faculty. Be sure to request the software at least one week ahead of the workshop and please have the program downloaded on your personal computer to use at the session.
