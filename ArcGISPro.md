@@ -16,7 +16,7 @@ This workshop will not be recorded.
 
 ## Workshop Preparation 
 
-An ArcGIS account is required for attendees who wish to follow along with the workshop content. Accounts can be requested by completing the [ArcGIS software request form](https://docs.google.com/forms/d/e/1FAIpQLSc1NpIK3WNkWT2P92nBsBB76PDlpDa9uKn7tYi3wGO6co97eA/viewform?usp=sf_link). Please note that ArcGIS is proprietary software and complimentary access is restricted to McMaster staff, students, and faculty. Be sure to request the software at least one week ahead of the workshop and please have the program downloaded on your personal computer to use at the session.
+An ArcGIS account is required for attendees who wish to follow along with the workshop content. Accounts can be requested by completing the [ArcGIS software request form](https://mcmaster-ca.libwizard.com/f/arcgis). Please note that ArcGIS is proprietary software and complimentary access is restricted to McMaster staff, students, and faculty. Be sure to request the software at least one week ahead of the workshop and please have the program downloaded on your personal computer to use at the session.
 
 ## Facilitator Bio
 
